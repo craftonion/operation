@@ -1,4 +1,4 @@
-module github.com/craftonion/operation
+module github.com/craftonion/operation/v2
 
 go 1.23.3
 
